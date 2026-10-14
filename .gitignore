@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+voice*.mp3
+PyWhatKit_DB.txt
+.DS_Store
+Thumbs.db
+desktop.ini
+contigious.txt

@@ -1,0 +1,11 @@
+﻿python-dotenv
+gTTS
+playsound==1.2.2
+psutil
+pyjokes
+pywhatkit
+requests
+SpeechRecognition
+sv-ttk
+wikipedia
+pywin32
